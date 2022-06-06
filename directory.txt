@@ -1,0 +1,5 @@
+{
+	"ecmomerce":https://vl-campaigns.s3.eu-west-1.amazonaws.com/templates-videos/video_homepage_5.mp4
+
+
+}
